@@ -1,11 +1,8 @@
-# How tu use it
+# Getting Started with Create React App
 
-1) Download it.
-Don't forget to have your node_modules folder in the / of the project
-2) Go in /src folder
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 
 In the project directory, you can run:
 
