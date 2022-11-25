@@ -1,6 +1,6 @@
 # How tu use it
 
-1) Download it
+1) Download it\n
 Don't forget to have your node_modules folder in the / of the project
 2) Go in /src folder
 
